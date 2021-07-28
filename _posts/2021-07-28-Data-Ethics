@@ -1,0 +1,7 @@
+# What Happens When You Don't Consider The Consequences
+
+I've been reading about Data Ethics from the book "Deep Learning for Coders with fastai & Pytorch" recently. The authors bring up a lot of problems that can happen when
+people create technologies (in this case, especially AI) without thinking what effects their product or research will have on other people. Great harm has come to many innocent
+lives because of a lamentable and sometimes culpable lack of forethought. Sometimes, the issue lies with the data being used to train models.
+I believe that most people naturally understand many aspects of what is right and what is wrong and should realize that all machine learning practitioners have a responsibility to try to prevent bias and
+illigitimate use of machine learning, as well as other technologies and processes that could harm others.
